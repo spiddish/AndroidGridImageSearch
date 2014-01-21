@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Michael\'s Image Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Advanced Settings</string>
+    <string name="search_hint">Enter Text Here</string>
+    <string name="search_button">Search</string>
+    <string name="title_activity_image_display">Selected Image</string>
+
+</resources>
